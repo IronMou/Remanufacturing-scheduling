@@ -1,0 +1,290 @@
+PS C:\Users\PC\Desktop\fjsp>  C:; cd 'C:\Users\PC\Desktop\fjsp'; & 'c:\Users\PC\AppData\Local\Programs\Python\Python38\python.exe' 'c:\Users\PC\.vscode\extensions\ms-python.debugpy-2024.14.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '58671' '--' 'FJSP_Dispatching\run.py' 
+['.//data//fjs\\L01.fjs', './/data//fjs\\M01.fjs', './/data//fjs\\S01.fjs', './/data//fjs\\L02.fjs', './/data//fjs\\M02.fjs', './/data//fjs\\S02.fjs', './/data//fjs\\L03.fjs', './/data//fjs\\M03.fjs', './/data//fjs\\S03.fjs', './/data//fjs\\L04.fjs', './/data//fjs\\M04.fjs', './/data//fjs\\S04.fjs', './/data//fjs\\L05.fjs', './/data//fjs\\M05.fjs', './/data//fjs\\S05.fjs', './/data//fjs\\L06.fjs', './/data//fjs\\M06.fjs', './/data//fjs\\S06.fjs']
+2025-01-15 00:37:53,724 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.052 s
+2025-01-15 00:37:53,725 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 2815.0
+2025-01-15 00:37:54,964 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.016 s
+2025-01-15 00:37:54,965 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 1158.0
+2025-01-15 00:37:55,655 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.500 s
+2025-01-15 00:37:55,655 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 768.0
+2025-01-15 00:38:02,227 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 6.209 s
+2025-01-15 00:38:02,227 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 3643.0
+2025-01-15 00:38:03,835 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.322 s
+2025-01-15 00:38:03,836 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 1476.0
+2025-01-15 00:38:04,647 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.615 s
+2025-01-15 00:38:04,648 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 1026.0
+2025-01-15 00:38:10,544 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 5.515 s
+2025-01-15 00:38:10,545 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 3267.0
+2025-01-15 00:38:12,239 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.436 s
+2025-01-15 00:38:12,240 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 1526.0
+2025-01-15 00:38:13,092 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.651 s
+2025-01-15 00:38:13,092 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 980.0
+2025-01-15 00:38:22,631 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 9.056 s
+2025-01-15 00:38:22,632 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 3899.0
+2025-01-15 00:38:24,801 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.929 s
+2025-01-15 00:38:24,803 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 2297.0
+2025-01-15 00:38:25,857 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.855 s
+2025-01-15 00:38:25,857 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 1127.0
+2025-01-15 00:38:34,316 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 8.060 s
+2025-01-15 00:38:34,317 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 3879.0
+2025-01-15 00:38:36,485 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.926 s
+2025-01-15 00:38:36,485 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 2078.0
+2025-01-15 00:38:37,573 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.894 s
+2025-01-15 00:38:37,574 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 1041.0
+2025-01-15 00:38:49,273 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 11.140 s
+2025-01-15 00:38:49,274 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 5116.0
+2025-01-15 00:38:52,926 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 3.358 s
+2025-01-15 00:38:52,927 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 2435.0
+2025-01-15 00:38:54,285 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.135 s
+2025-01-15 00:38:54,286 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_SPT: 1414.0
+2025-01-15 00:38:58,123 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 3.517 s
+2025-01-15 00:38:58,124 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 2573.0
+2025-01-15 00:38:59,318 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.997 s
+2025-01-15 00:38:59,318 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 1257.0
+2025-01-15 00:39:00,079 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.555 s
+2025-01-15 00:39:00,080 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 735.0
+2025-01-15 00:39:06,143 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 5.683 s
+2025-01-15 00:39:06,143 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 3427.0
+2025-01-15 00:39:07,658 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.301 s
+2025-01-15 00:39:07,659 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 1459.0
+2025-01-15 00:39:08,528 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.672 s
+2025-01-15 00:39:08,529 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 787.0
+2025-01-15 00:39:13,927 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 5.012 s
+2025-01-15 00:39:13,927 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 3336.0
+2025-01-15 00:39:15,583 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.429 s
+2025-01-15 00:39:15,584 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 1454.0
+2025-01-15 00:39:16,445 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.679 s
+2025-01-15 00:39:16,446 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 828.0
+2025-01-15 00:39:25,014 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 8.143 s
+2025-01-15 00:39:25,016 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 4067.0
+2025-01-15 00:39:27,308 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 2.019 s
+2025-01-15 00:39:27,308 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 1720.0
+2025-01-15 00:39:28,361 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.842 s
+2025-01-15 00:39:28,362 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 1116.0
+2025-01-15 00:39:36,125 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 7.335 s
+2025-01-15 00:39:36,126 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 3617.0
+2025-01-15 00:39:38,383 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.969 s
+2025-01-15 00:39:38,384 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 1729.0
+2025-01-15 00:39:39,427 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.812 s
+2025-01-15 00:39:39,427 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 946.0
+2025-01-15 00:39:51,505 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 11.555 s
+2025-01-15 00:39:51,506 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 5100.0
+2025-01-15 00:39:55,045 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 3.238 s
+2025-01-15 00:39:55,045 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 2396.0
+2025-01-15 00:39:56,333 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.070 s
+2025-01-15 00:39:56,334 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for FIFO_EET: 1266.0
+2025-01-15 00:40:00,277 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 3.601 s
+2025-01-15 00:40:00,278 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 3431.0
+2025-01-15 00:40:01,538 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.046 s
+2025-01-15 00:40:01,539 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 1305.0
+2025-01-15 00:40:02,249 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.503 s
+2025-01-15 00:40:02,249 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 793.0
+2025-01-15 00:40:07,611 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.823 s
+2025-01-15 00:40:07,612 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 3420.0
+2025-01-15 00:40:09,151 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.303 s
+2025-01-15 00:40:09,152 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 1931.0
+2025-01-15 00:40:09,994 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.657 s
+2025-01-15 00:40:09,995 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 750.0
+2025-01-15 00:40:14,697 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.276 s
+2025-01-15 00:40:14,697 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 3058.0
+2025-01-15 00:40:16,318 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.341 s
+2025-01-15 00:40:16,318 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 1907.0
+2025-01-15 00:40:17,165 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.642 s
+2025-01-15 00:40:17,165 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 1026.0
+2025-01-15 00:40:24,831 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 6.566 s
+2025-01-15 00:40:24,832 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 5060.0
+2025-01-15 00:40:26,965 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.824 s
+2025-01-15 00:40:26,965 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 2275.0
+2025-01-15 00:40:28,017 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.832 s
+2025-01-15 00:40:28,018 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 1506.0
+2025-01-15 00:40:34,511 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 5.938 s
+2025-01-15 00:40:34,512 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 4054.0
+2025-01-15 00:40:36,508 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.683 s
+2025-01-15 00:40:36,509 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 2260.0
+2025-01-15 00:40:37,520 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.771 s
+2025-01-15 00:40:37,521 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 1143.0
+2025-01-15 00:40:47,130 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 8.860 s
+2025-01-15 00:40:47,131 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 5866.0
+2025-01-15 00:40:50,382 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 2.876 s
+2025-01-15 00:40:50,382 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 2549.0
+2025-01-15 00:40:51,751 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.094 s
+2025-01-15 00:40:51,752 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_SPT: 1488.0
+2025-01-15 00:40:56,043 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 3.913 s
+2025-01-15 00:40:56,044 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 2816.0
+2025-01-15 00:40:57,229 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.963 s
+2025-01-15 00:40:57,230 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 1689.0
+2025-01-15 00:40:57,913 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.492 s
+2025-01-15 00:40:57,913 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 700.0
+2025-01-15 00:41:02,699 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.151 s
+2025-01-15 00:41:02,699 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 3977.0
+2025-01-15 00:41:04,742 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.204 s
+2025-01-15 00:41:04,743 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 1613.0
+2025-01-15 00:41:05,555 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.619 s
+2025-01-15 00:41:05,555 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 950.0
+2025-01-15 00:41:10,799 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.691 s
+2025-01-15 00:41:10,799 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 3379.0
+2025-01-15 00:41:12,508 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.419 s
+2025-01-15 00:41:12,508 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 1953.0
+2025-01-15 00:41:13,461 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.690 s
+2025-01-15 00:41:13,462 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 951.0
+2025-01-15 00:41:20,242 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 6.098 s
+2025-01-15 00:41:20,242 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 4356.0
+2025-01-15 00:41:22,249 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.690 s
+2025-01-15 00:41:22,250 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 2109.0
+2025-01-15 00:41:23,274 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.818 s
+2025-01-15 00:41:23,274 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 1239.0
+2025-01-15 00:41:29,105 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 5.139 s
+2025-01-15 00:41:29,105 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 3861.0
+2025-01-15 00:41:31,337 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.581 s
+2025-01-15 00:41:31,337 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 1917.0
+2025-01-15 00:41:32,315 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.734 s
+2025-01-15 00:41:32,316 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 1076.0
+2025-01-15 00:41:41,855 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 8.680 s
+2025-01-15 00:41:41,855 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 5185.0
+2025-01-15 00:41:44,855 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 2.590 s
+2025-01-15 00:41:44,856 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 2667.0
+2025-01-15 00:41:46,060 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.968 s
+2025-01-15 00:41:46,060 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MOPNR_EET: 1246.0
+2025-01-15 00:41:49,696 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 3.150 s
+2025-01-15 00:41:49,697 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 3027.0
+2025-01-15 00:41:50,920 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.984 s
+2025-01-15 00:41:50,921 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 1314.0
+2025-01-15 00:41:51,619 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.506 s
+2025-01-15 00:41:51,620 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 797.0
+2025-01-15 00:41:56,829 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.651 s
+2025-01-15 00:41:56,830 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 4170.0
+2025-01-15 00:41:58,273 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.212 s
+2025-01-15 00:41:58,274 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 1560.0
+2025-01-15 00:41:59,069 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.603 s
+2025-01-15 00:41:59,070 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 1013.0
+2025-01-15 00:42:04,227 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.477 s
+2025-01-15 00:42:04,228 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 3596.0
+2025-01-15 00:42:05,925 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.339 s
+2025-01-15 00:42:05,926 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 1828.0
+2025-01-15 00:42:06,742 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.618 s
+2025-01-15 00:42:06,743 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 946.0
+2025-01-15 00:42:14,410 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 6.882 s
+2025-01-15 00:42:14,411 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 4984.0
+2025-01-15 00:42:16,597 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.851 s
+2025-01-15 00:42:16,597 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 1892.0
+2025-01-15 00:42:17,679 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.851 s
+2025-01-15 00:42:17,679 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 1591.0
+2025-01-15 00:42:24,812 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 6.314 s
+2025-01-15 00:42:24,812 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 3980.0
+2025-01-15 00:42:27,157 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.676 s
+2025-01-15 00:42:27,158 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 1871.0
+2025-01-15 00:42:28,281 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.917 s
+2025-01-15 00:42:28,282 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 1177.0
+2025-01-15 00:42:38,891 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 10.107 s
+2025-01-15 00:42:38,891 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 6076.0
+2025-01-15 00:42:42,216 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 3.032 s
+2025-01-15 00:42:42,217 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 2608.0
+2025-01-15 00:42:43,501 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.062 s
+2025-01-15 00:42:43,502 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_SPT: 1487.0
+2025-01-15 00:42:47,688 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 3.840 s
+2025-01-15 00:42:47,689 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 2820.0
+2025-01-15 00:42:48,930 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.001 s
+2025-01-15 00:42:48,931 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 1313.0
+2025-01-15 00:42:49,626 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.497 s
+2025-01-15 00:42:49,626 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 754.0
+2025-01-15 00:42:55,058 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.801 s
+2025-01-15 00:42:55,059 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 3494.0
+2025-01-15 00:42:56,523 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.235 s
+2025-01-15 00:42:56,524 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 1579.0
+2025-01-15 00:42:57,370 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.653 s
+2025-01-15 00:42:57,371 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 774.0
+2025-01-15 00:43:02,822 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.756 s
+2025-01-15 00:43:02,823 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 3438.0
+2025-01-15 00:43:04,488 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.382 s
+2025-01-15 00:43:04,488 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 1576.0
+2025-01-15 00:43:05,351 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.657 s
+2025-01-15 00:43:05,352 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 1387.0
+2025-01-15 00:43:12,839 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 6.677 s
+2025-01-15 00:43:12,840 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 4630.0
+2025-01-15 00:43:14,903 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.769 s
+2025-01-15 00:43:14,904 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 1823.0
+2025-01-15 00:43:15,936 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.812 s
+2025-01-15 00:43:15,936 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 1148.0
+2025-01-15 00:43:22,793 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 6.152 s
+2025-01-15 00:43:22,793 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 3977.0
+2025-01-15 00:43:24,846 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.682 s
+2025-01-15 00:43:24,847 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 1884.0
+2025-01-15 00:43:25,831 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.760 s
+2025-01-15 00:43:25,832 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 1386.0
+2025-01-15 00:43:35,805 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 9.046 s
+2025-01-15 00:43:35,806 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 5748.0
+2025-01-15 00:43:39,212 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 2.995 s
+2025-01-15 00:43:39,213 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 2437.0
+2025-01-15 00:43:40,675 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.022 s
+2025-01-15 00:43:40,676 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for LWKR_EET: 1244.0
+2025-01-15 00:43:46,163 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.665 s
+2025-01-15 00:43:46,163 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 3282.0
+2025-01-15 00:43:47,664 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.002 s
+2025-01-15 00:43:47,665 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 1371.0
+2025-01-15 00:43:48,355 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.502 s
+2025-01-15 00:43:48,355 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 692.0
+2025-01-15 00:43:53,676 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.640 s
+2025-01-15 00:43:53,677 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 3748.0
+2025-01-15 00:43:55,278 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.253 s
+2025-01-15 00:43:55,278 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 1547.0
+2025-01-15 00:43:56,097 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.611 s
+2025-01-15 00:43:56,097 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 1046.0
+2025-01-15 00:44:01,363 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.508 s
+2025-01-15 00:44:01,363 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 3807.0
+2025-01-15 00:44:03,073 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.372 s
+2025-01-15 00:44:03,074 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 1779.0
+2025-01-15 00:44:03,909 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.639 s
+2025-01-15 00:44:03,910 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 1009.0
+2025-01-15 00:44:11,717 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 6.773 s
+2025-01-15 00:44:11,718 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 4273.0
+2025-01-15 00:44:13,961 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.838 s
+2025-01-15 00:44:13,961 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 2036.0
+2025-01-15 00:44:15,070 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.845 s
+2025-01-15 00:44:15,071 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 1070.0
+2025-01-15 00:44:22,082 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 6.198 s
+2025-01-15 00:44:22,082 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 3848.0
+2025-01-15 00:44:24,181 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.667 s
+2025-01-15 00:44:24,181 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 2515.0
+2025-01-15 00:44:25,178 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.750 s
+2025-01-15 00:44:25,179 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 1152.0
+2025-01-15 00:44:35,837 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 9.173 s
+2025-01-15 00:44:35,837 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 5224.0
+2025-01-15 00:44:39,548 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 2.921 s
+2025-01-15 00:44:39,548 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 2771.0
+2025-01-15 00:44:40,886 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.035 s
+2025-01-15 00:44:40,886 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_SPT: 1525.0
+2025-01-15 00:44:45,015 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 3.329 s
+2025-01-15 00:44:45,016 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 3025.0
+2025-01-15 00:44:46,379 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.016 s
+2025-01-15 00:44:46,380 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 1234.0
+2025-01-15 00:44:47,172 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.517 s
+2025-01-15 00:44:47,173 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 726.0
+2025-01-15 00:44:52,775 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.598 s
+2025-01-15 00:44:52,775 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 3486.0
+2025-01-15 00:44:54,483 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.335 s
+2025-01-15 00:44:54,483 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 1527.0
+2025-01-15 00:44:55,313 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.645 s
+2025-01-15 00:44:55,314 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 807.0
+2025-01-15 00:45:00,749 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 4.701 s
+2025-01-15 00:45:00,750 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 3001.0
+2025-01-15 00:45:02,511 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.407 s
+2025-01-15 00:45:02,512 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 1703.0
+2025-01-15 00:45:03,367 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.652 s
+2025-01-15 00:45:03,368 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 1120.0
+2025-01-15 00:45:11,150 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 6.843 s
+2025-01-15 00:45:11,151 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 4554.0
+2025-01-15 00:45:15,065 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 3.565 s
+2025-01-15 00:45:15,066 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 1949.0
+2025-01-15 00:45:16,151 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.811 s
+2025-01-15 00:45:16,152 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 1190.0
+2025-01-15 00:45:23,184 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 6.075 s
+2025-01-15 00:45:23,185 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 4580.0
+2025-01-15 00:45:25,291 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.700 s
+2025-01-15 00:45:25,292 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 2188.0
+2025-01-15 00:45:26,345 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 0.785 s
+2025-01-15 00:45:26,346 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 1177.0
+2025-01-15 00:45:36,963 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 9.570 s
+2025-01-15 00:45:36,963 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 5435.0
+2025-01-15 00:45:40,330 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 2.835 s
+2025-01-15 00:45:40,331 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 2666.0
+2025-01-15 00:45:41,630 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - latency: 1.024 s
+2025-01-15 00:45:41,631 - C:\Users\PC\Desktop\fjsp\FJSP_Dispatching\FJSP_Env.py - INFO - total machine time for MWKR_EET: 1512.0

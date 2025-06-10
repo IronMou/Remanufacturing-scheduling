@@ -1,0 +1,98 @@
+2025-01-06 21:58:52,459 - FJSP_RealWorld\validation_realWorld.py - INFO - data files:
+['.\\data\\fjs\\L01.fjs', '.\\data\\fjs\\L02.fjs', '.\\data\\fjs\\L03.fjs', '.\\data\\fjs\\L04.fjs', '.\\data\\fjs\\L05.fjs', '.\\data\\fjs\\L06.fjs', '.\\data\\fjs\\M01.fjs', '.\\data\\fjs\\M02.fjs', '.\\data\\fjs\\M03.fjs', '.\\data\\fjs\\M04.fjs', '.\\data\\fjs\\M05.fjs', '.\\data\\fjs\\M06.fjs', '.\\data\\fjs\\S01.fjs', '.\\data\\fjs\\S02.fjs', '.\\data\\fjs\\S03.fjs', '.\\data\\fjs\\S04.fjs', '.\\data\\fjs\\S05.fjs', '.\\data\\fjs\\S06.fjs']
+2025-01-06 21:58:52,461 - FJSP_RealWorld\validation_realWorld.py - INFO - network files:
+['C:\\Users\\PC\\Desktop\\fjsp\\FJSP_RealWorld\\saved_network\\FJSP_J15M15\\best_value0', 'C:\\Users\\PC\\Desktop\\fjsp\\FJSP_RealWorld\\saved_network\\FJSP_J15M15\\best_value00', 'C:\\Users\\PC\\Desktop\\fjsp\\FJSP_RealWorld\\saved_network\\FJSP_J15M15\\best_value5']
+2025-01-06 21:59:14,470 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 18.690897
+2025-01-06 21:59:14,563 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 2806.0
+2025-01-06 21:59:23,754 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 8.768023
+2025-01-06 21:59:23,755 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 2291.0
+2025-01-06 21:59:23,756 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 2291.0
+2025-01-06 21:59:36,362 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 12.176006
+2025-01-06 21:59:36,363 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 2879.0
+2025-01-06 21:59:48,828 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 11.993018
+2025-01-06 21:59:48,829 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 2951.0
+2025-01-06 21:59:48,830 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 2879.0
+2025-01-06 22:00:01,220 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 11.990788
+2025-01-06 22:00:01,221 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 3621.0
+2025-01-06 22:00:13,914 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 12.278762
+2025-01-06 22:00:13,915 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 3058.0
+2025-01-06 22:00:13,916 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 3058.0
+2025-01-06 22:00:31,914 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 17.525917
+2025-01-06 22:00:31,916 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 4246.0
+2025-01-06 22:00:49,550 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 17.169199
+2025-01-06 22:00:49,551 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 3661.0
+2025-01-06 22:00:49,552 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 3661.0
+2025-01-06 22:01:05,598 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 15.569187
+2025-01-06 22:01:05,599 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 3605.0
+2025-01-06 22:01:21,409 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 15.355329
+2025-01-06 22:01:21,410 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 3678.0
+2025-01-06 22:01:21,411 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 3605.0
+2025-01-06 22:01:44,911 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 22.700209
+2025-01-06 22:01:44,913 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 4954.0
+2025-01-06 22:02:08,193 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 22.773844
+2025-01-06 22:02:08,194 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 4324.0
+2025-01-06 22:02:08,195 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 4324.0
+2025-01-06 22:02:11,396 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 2.844999
+2025-01-06 22:02:11,397 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1157.0
+2025-01-06 22:02:14,102 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 2.384595
+2025-01-06 22:02:14,104 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1169.0
+2025-01-06 22:02:14,106 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 1157.0
+2025-01-06 22:02:17,523 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 3.089264
+2025-01-06 22:02:17,524 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1258.0
+2025-01-06 22:02:20,915 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 3.034665
+2025-01-06 22:02:20,916 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1281.0
+2025-01-06 22:02:20,917 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 1258.0
+2025-01-06 22:02:24,529 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 3.268231
+2025-01-06 22:02:24,530 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1414.0
+2025-01-06 22:02:28,275 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 3.403583
+2025-01-06 22:02:28,276 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1416.0
+2025-01-06 22:02:28,276 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 1414.0
+2025-01-06 22:02:33,043 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 4.416482
+2025-01-06 22:02:33,044 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1710.0
+2025-01-06 22:02:37,867 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 4.498246
+2025-01-06 22:02:37,868 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1719.0
+2025-01-06 22:02:37,870 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 1710.0
+C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\FJSP_Env.py:661: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam 
+`figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  plt.figure(figsize=((self.total_n_job * 1.5, self.number_of_machines)))
+2025-01-06 22:02:42,596 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 4.318839
+2025-01-06 22:02:42,598 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1686.0
+2025-01-06 22:02:47,411 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 4.449640
+2025-01-06 22:02:47,412 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1688.0
+2025-01-06 22:02:47,413 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 1686.0
+2025-01-06 22:02:55,307 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 7.472953
+2025-01-06 22:02:55,309 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 2178.0
+2025-01-06 22:03:03,333 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 7.656112
+2025-01-06 22:03:03,334 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 2055.0
+2025-01-06 22:03:03,335 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 2055.0
+2025-01-06 22:03:04,811 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 1.147003
+2025-01-06 22:03:04,812 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 579.0
+2025-01-06 22:03:06,218 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 1.108304
+2025-01-06 22:03:06,219 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 653.0
+2025-01-06 22:03:06,220 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 579.0
+2025-01-06 22:03:07,962 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 1.412965
+2025-01-06 22:03:07,963 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 786.0
+2025-01-06 22:03:09,696 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 1.418039
+2025-01-06 22:03:09,698 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 599.0
+2025-01-06 22:03:09,699 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 599.0
+2025-01-06 22:03:11,512 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 1.484625
+2025-01-06 22:03:11,514 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 777.0
+2025-01-06 22:03:13,274 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 1.455826
+2025-01-06 22:03:13,276 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 812.0
+2025-01-06 22:03:13,277 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 777.0
+2025-01-06 22:03:15,555 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 1.945725
+2025-01-06 22:03:15,556 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 973.0
+2025-01-06 22:03:17,787 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 1.913443
+2025-01-06 22:03:17,789 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 793.0
+2025-01-06 22:03:17,789 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 793.0
+2025-01-06 22:03:19,936 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 1.819991
+2025-01-06 22:03:19,938 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 853.0
+2025-01-06 22:03:22,064 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 1.824613
+2025-01-06 22:03:22,065 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 935.0
+2025-01-06 22:03:22,066 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 853.0
+2025-01-06 22:03:24,744 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 2.318820
+2025-01-06 22:03:24,746 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1045.0
+2025-01-06 22:03:28,028 - FJSP_RealWorld\validation_realWorld.py - INFO - total computation time: 2.442640
+2025-01-06 22:03:28,029 - FJSP_RealWorld\validation_realWorld.py - INFO - mean makespan: 1102.0
+2025-01-06 22:03:28,030 - FJSP_RealWorld\validation_realWorld.py - INFO - C:\Users\PC\Desktop\fjsp\FJSP_RealWorld\saved_network\FJSP_J15M15\best_value00: 1045.0
+

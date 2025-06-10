@@ -1,0 +1,2 @@
+tensor(582.2668, dtype=torch.float64)
+

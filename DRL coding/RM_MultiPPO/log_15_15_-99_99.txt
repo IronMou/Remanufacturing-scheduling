@@ -1,0 +1,5 @@
+Batch 19/100, reward: 4892.631, loss: 0.6181,critic_loss:-0.0055,took: 109.5633s
+Batch 39/100, reward: 680.284, loss: 0.1836,critic_loss:-0.0041,took: 522.6903s
+Batch 59/100, reward: 646.024, loss: 0.0971,critic_loss:-0.0039,took: 525.3495s
+Batch 79/100, reward: 565.382, loss: 0.0894,critic_loss:-0.0040,took: 514.2754s
+Batch 99/100, reward: 527.593, loss: 0.0714,critic_loss:-0.0041,took: 630.7496s
