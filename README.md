@@ -4,7 +4,7 @@ File 'DRL coding'
 This coding presents an implementation of the combined constraint rule with deep reinforcement learning method applied to the multi-stage remanufacturing scheduling problem. Remanufacturing scheduling contains integrated flexible-job-shop-based disassembly, reprocessing, and reassembly shops. Proximal policy optimization algorithm is applied to optimize scheduling decisions. Combined with graph neural network to model this multi-stage scheduling problem, using adjacency matrices to capture the multi-stage constraints inherent in remanufacturing scheduling. The in-degree and constraint values of operation nodes are generated into constraint rules, enabling a more precise characterization of inter-node relationships. For testing the instance, you can run Remanufacturing-scheduling/DRL coding/RM_RealWorld/validation_realWorld.py.
 
 File 'Dispatching rules coding'
-For operation sequencing rule, for classic rules are selected: First in First Out (FIFO), Most Operation Number Remaining (MOPNR), LeastWork Remaining (LWKR), and Most Work Remaining (MWKR).
+For operation sequencing rule, four classic rules are selected: First in First Out (FIFO), Most Operation Number Remaining (MOPNR), LeastWork Remaining (LWKR), and Most Work Remaining (MWKR).
 For workstation allocation rule is to select the compatible workstation for the scheduled operation, two classics are selected: Shortest Processing Time (SPT) and Earliest End Time(EET).
 Thus, 8 compound rules are set for coding to do the experiments: FIFO_SPT, FIFO_EET, MOPNR_SPT, MOPNR_EET, LWKR_SPT, LWKR_EET, MWKR_SPT, MWKR_EET.
 
