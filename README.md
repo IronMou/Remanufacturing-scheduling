@@ -1,4 +1,4 @@
-This is the coding of our paper "CombinedConstraint Rule withDeep Reinforcement Learning Method to Optimize Multi-stageRemanufacturing Scheduling Problem".
+This is the coding of our paper "Combined Constraint Rule with Deep Reinforcement Learning Method to Optimize Multi-stage Remanufacturing Scheduling Problem".
 
 File 'DRL coding':
 This coding presents an implementation of the combined constraint rule with deep reinforcement learning method applied to the multi-stage remanufacturing scheduling problem. Remanufacturing scheduling contains integrated flexible-job-shop-based disassembly, reprocessing, and reassembly shops. Proximal policy optimization algorithm is applied to optimize scheduling decisions. Combined with graph neural network to model this multi-stage scheduling problem, using adjacency matrices to capture the multi-stage constraints inherent in remanufacturing scheduling. The in-degree and constraint values of operation nodes are generated into constraint rules, enabling a more precise characterization of inter-node relationships. For testing the instance, you can run Remanufacturing-scheduling/DRL coding/RM_RealWorld/validation_realWorld.py.
