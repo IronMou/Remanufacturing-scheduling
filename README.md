@@ -7,7 +7,6 @@ File 'Dispatching rules coding':
 For operation sequencing rule, four classic rules are selected: First in First Out (FIFO), Most Operation Number Remaining (MOPNR), LeastWork Remaining (LWKR), and Most Work Remaining (MWKR).
 For workstation allocation rule is to select the compatible workstation for the scheduled operation, two classics are selected: Shortest Processing Time (SPT) and Earliest End Time(EET).
 Thus, 8 compound rules are set for coding to do the experiments: FIFO_SPT, FIFO_EET, MOPNR_SPT, MOPNR_EET, LWKR_SPT, LWKR_EET, MWKR_SPT, MWKR_EET. For testing the instance, you can run Remanufacturing-scheduling/Dispatching rules coding/run.py.
-/run.py
 
 File 'Experiment results':
 You can find the experiment results (including makespan, computation time and gantt charts) of all methods (GA, GAVNS, 8 compound dispatching rules and our method) shown in the paper.
